@@ -20,12 +20,6 @@ This project is a Python-based web scraper that extracts all product SKUs from t
 - [BeautifulSoup (bs4)](https://pypi.org/project/beautifulsoup4/)
 - [Selenium](https://pypi.org/project/selenium/)
 
-## 📦 Installation
-
-Install the required dependencies:
-
-<pre> ```pip install requests beautifulsoup4 selenium``` </pre>
-
 ## ✅ To-Do
 
 - [ ] Format SKU output with associated subcategory names  
@@ -33,3 +27,10 @@ Install the required dependencies:
 - [ ] Add retry/backoff for slow-loading pages or failures  
 - [ ] Add support for running the browser headlessly  
 - [ ] Improve logging and error reporting  
+
+## 📦 Installation
+
+Install the required dependencies:
+
+```bash
+pip install requests beautifulsoup4 selenium
