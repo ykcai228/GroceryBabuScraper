@@ -24,8 +24,7 @@ This project is a Python-based web scraper that extracts all product SKUs from t
 
 Install the required dependencies:
 
-```bash
-pip install requests beautifulsoup4 selenium
+<pre> ```bash pip install requests beautifulsoup4 selenium ``` </pre>
 
 ## ✅ To-Do
 
