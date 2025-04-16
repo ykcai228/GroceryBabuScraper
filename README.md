@@ -34,3 +34,4 @@ Install the required dependencies:
 
 ```bash
 pip install requests beautifulsoup4 selenium
+```
