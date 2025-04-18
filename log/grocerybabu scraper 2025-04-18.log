@@ -1,0 +1,521 @@
+2025-04-18 04:33:23,176 - INFO - Processing category: New Arrivals
+2025-04-18 04:33:23,176 - INFO - Processing sub category: Bakery/Sweet
+2025-04-18 04:33:29,602 - INFO - Scraping page in subcategory: Bakery/Sweet
+2025-04-18 04:33:29,607 - INFO - Found 4 items in subcategory: Bakery/Sweet
+2025-04-18 04:33:42,574 - INFO - No Next button found — end of pagination for Bakery/Sweet
+2025-04-18 04:33:42,574 - INFO - Processing sub category: Frozen
+2025-04-18 04:33:46,253 - INFO - Scraping page in subcategory: Frozen
+2025-04-18 04:33:46,256 - INFO - Found 15 items in subcategory: Frozen
+2025-04-18 04:34:06,847 - INFO - No Next button found — end of pagination for Frozen
+2025-04-18 04:34:06,847 - INFO - Processing sub category: Snacks
+2025-04-18 04:34:10,165 - INFO - Scraping page in subcategory: Snacks
+2025-04-18 04:34:10,173 - INFO - Found 6 items in subcategory: Snacks
+2025-04-18 04:34:24,497 - INFO - No Next button found — end of pagination for Snacks
+2025-04-18 04:34:24,497 - INFO - Processing sub category: Spices/Pickles/Chutneys
+2025-04-18 04:34:27,686 - INFO - Scraping page in subcategory: Spices/Pickles/Chutneys
+2025-04-18 04:34:27,690 - INFO - Found 2 items in subcategory: Spices/Pickles/Chutneys
+2025-04-18 04:34:39,195 - INFO - No Next button found — end of pagination for Spices/Pickles/Chutneys
+2025-04-18 04:34:39,195 - INFO - Processing sub category: Ghee/Jaggery/Mukhwas
+2025-04-18 04:34:42,282 - INFO - Scraping page in subcategory: Ghee/Jaggery/Mukhwas
+2025-04-18 04:34:42,287 - INFO - Found 2 items in subcategory: Ghee/Jaggery/Mukhwas
+2025-04-18 04:34:53,801 - INFO - No Next button found — end of pagination for Ghee/Jaggery/Mukhwas
+2025-04-18 04:34:53,801 - INFO - Processing sub category: Nuts/Dry Fruits/Coconut
+2025-04-18 04:34:56,995 - INFO - Scraping page in subcategory: Nuts/Dry Fruits/Coconut
+2025-04-18 04:34:56,998 - INFO - Found 2 items in subcategory: Nuts/Dry Fruits/Coconut
+2025-04-18 04:35:08,523 - INFO - No Next button found — end of pagination for Nuts/Dry Fruits/Coconut
+2025-04-18 04:35:08,523 - INFO - Processing sub category: Dals/Beans/Flour/Rice
+2025-04-18 04:35:11,594 - INFO - Scraping page in subcategory: Dals/Beans/Flour/Rice
+2025-04-18 04:35:11,597 - INFO - Found 2 items in subcategory: Dals/Beans/Flour/Rice
+2025-04-18 04:35:23,156 - INFO - No Next button found — end of pagination for Dals/Beans/Flour/Rice
+2025-04-18 04:35:23,156 - INFO - Processing category: Frozen
+2025-04-18 04:35:23,165 - INFO - Processing sub category: Appetizers
+2025-04-18 04:35:26,674 - INFO - Scraping page in subcategory: Appetizers
+2025-04-18 04:35:26,677 - INFO - Found 36 items in subcategory: Appetizers
+2025-04-18 04:35:54,626 - INFO - Scraping page in subcategory: Appetizers
+2025-04-18 04:35:54,638 - INFO - Found 36 items in subcategory: Appetizers
+2025-04-18 04:36:21,862 - INFO - Scraping page in subcategory: Appetizers
+2025-04-18 04:36:21,879 - INFO - Found 8 items in subcategory: Appetizers
+2025-04-18 04:36:38,110 - INFO - No Next button found — end of pagination for Appetizers
+2025-04-18 04:36:38,110 - INFO - Processing sub category: Vegeterian Entrees
+2025-04-18 04:36:44,437 - INFO - Scraping page in subcategory: Vegeterian Entrees
+2025-04-18 04:36:44,440 - INFO - Found 36 items in subcategory: Vegeterian Entrees
+2025-04-18 04:36:59,437 - INFO - Failed to extract item: Message: element click intercepted: Element <a href="javascript:void(0);" class="openQuickView" data-pid="1450" title="DPFEUN">...</a> is not clickable at point (438, 1143). Other element would receive the click: <div class="mfp-container mfp-ajax-holder">...</div>
+  (Session info: chrome=135.0.7049.85)
+Stacktrace:
+	GetHandleVerifier [0x00007FF67BBA5355+78597]
+	GetHandleVerifier [0x00007FF67BBA53B0+78688]
+	(No symbol) [0x00007FF67B9591AA]
+	(No symbol) [0x00007FF67B9B7089]
+	(No symbol) [0x00007FF67B9B4A42]
+	(No symbol) [0x00007FF67B9B1AE1]
+	(No symbol) [0x00007FF67B9B0A42]
+	(No symbol) [0x00007FF67B9A2204]
+	(No symbol) [0x00007FF67B9D70EA]
+	(No symbol) [0x00007FF67B9A1AB6]
+	(No symbol) [0x00007FF67B9D7300]
+	(No symbol) [0x00007FF67B9FF2BB]
+	(No symbol) [0x00007FF67B9D6EC3]
+	(No symbol) [0x00007FF67B9A03F8]
+	(No symbol) [0x00007FF67B9A1163]
+	GetHandleVerifier [0x00007FF67BE4EF0D+2870973]
+	GetHandleVerifier [0x00007FF67BE496B8+2848360]
+	GetHandleVerifier [0x00007FF67BE66993+2967875]
+	GetHandleVerifier [0x00007FF67BBC019A+188746]
+	GetHandleVerifier [0x00007FF67BBC847F+222255]
+	GetHandleVerifier [0x00007FF67BBAD2D4+111236]
+	GetHandleVerifier [0x00007FF67BBAD482+111666]
+	GetHandleVerifier [0x00007FF67BB935A9+5465]
+	BaseThreadInitThunk [0x00007FFBB35A7374+20]
+	RtlUserThreadStart [0x00007FFBB543CC91+33]
+
+2025-04-18 04:37:00,470 - INFO - Failed to extract item: Message: element click intercepted: Element <a href="javascript:void(0);" class="openQuickView" data-pid="4544" title="DPFSDM">...</a> is not clickable at point (652, 1143). Other element would receive the click: <div class="mfp-container mfp-ajax-holder">...</div>
+  (Session info: chrome=135.0.7049.85)
+Stacktrace:
+	GetHandleVerifier [0x00007FF67BBA5355+78597]
+	GetHandleVerifier [0x00007FF67BBA53B0+78688]
+	(No symbol) [0x00007FF67B9591AA]
+	(No symbol) [0x00007FF67B9B7089]
+	(No symbol) [0x00007FF67B9B4A42]
+	(No symbol) [0x00007FF67B9B1AE1]
+	(No symbol) [0x00007FF67B9B0A42]
+	(No symbol) [0x00007FF67B9A2204]
+	(No symbol) [0x00007FF67B9D70EA]
+	(No symbol) [0x00007FF67B9A1AB6]
+	(No symbol) [0x00007FF67B9D7300]
+	(No symbol) [0x00007FF67B9FF2BB]
+	(No symbol) [0x00007FF67B9D6EC3]
+	(No symbol) [0x00007FF67B9A03F8]
+	(No symbol) [0x00007FF67B9A1163]
+	GetHandleVerifier [0x00007FF67BE4EF0D+2870973]
+	GetHandleVerifier [0x00007FF67BE496B8+2848360]
+	GetHandleVerifier [0x00007FF67BE66993+2967875]
+	GetHandleVerifier [0x00007FF67BBC019A+188746]
+	GetHandleVerifier [0x00007FF67BBC847F+222255]
+	GetHandleVerifier [0x00007FF67BBAD2D4+111236]
+	GetHandleVerifier [0x00007FF67BBAD482+111666]
+	GetHandleVerifier [0x00007FF67BB935A9+5465]
+	BaseThreadInitThunk [0x00007FFBB35A7374+20]
+	RtlUserThreadStart [0x00007FFBB543CC91+33]
+
+2025-04-18 04:37:01,541 - INFO - Failed to extract item: Message: element click intercepted: Element <a href="javascript:void(0);" class="openQuickView" data-pid="4160" title="DPFRDA">...</a> is not clickable at point (866, 1143). Other element would receive the click: <div class="mfp-container mfp-ajax-holder">...</div>
+  (Session info: chrome=135.0.7049.85)
+Stacktrace:
+	GetHandleVerifier [0x00007FF67BBA5355+78597]
+	GetHandleVerifier [0x00007FF67BBA53B0+78688]
+	(No symbol) [0x00007FF67B9591AA]
+	(No symbol) [0x00007FF67B9B7089]
+	(No symbol) [0x00007FF67B9B4A42]
+	(No symbol) [0x00007FF67B9B1AE1]
+	(No symbol) [0x00007FF67B9B0A42]
+	(No symbol) [0x00007FF67B9A2204]
+	(No symbol) [0x00007FF67B9D70EA]
+	(No symbol) [0x00007FF67B9A1AB6]
+	(No symbol) [0x00007FF67B9D7300]
+	(No symbol) [0x00007FF67B9FF2BB]
+	(No symbol) [0x00007FF67B9D6EC3]
+	(No symbol) [0x00007FF67B9A03F8]
+	(No symbol) [0x00007FF67B9A1163]
+	GetHandleVerifier [0x00007FF67BE4EF0D+2870973]
+	GetHandleVerifier [0x00007FF67BE496B8+2848360]
+	GetHandleVerifier [0x00007FF67BE66993+2967875]
+	GetHandleVerifier [0x00007FF67BBC019A+188746]
+	GetHandleVerifier [0x00007FF67BBC847F+222255]
+	GetHandleVerifier [0x00007FF67BBAD2D4+111236]
+	GetHandleVerifier [0x00007FF67BBAD482+111666]
+	GetHandleVerifier [0x00007FF67BB935A9+5465]
+	BaseThreadInitThunk [0x00007FFBB35A7374+20]
+	RtlUserThreadStart [0x00007FFBB543CC91+33]
+
+2025-04-18 04:37:02,603 - INFO - Failed to extract item: Message: element click intercepted: Element <a href="javascript:void(0);" class="openQuickView" data-pid="4154" title="DPFRACB">...</a> is not clickable at point (1080, 1143). Other element would receive the click: <div class="mfp-container mfp-ajax-holder">...</div>
+  (Session info: chrome=135.0.7049.85)
+Stacktrace:
+	GetHandleVerifier [0x00007FF67BBA5355+78597]
+	GetHandleVerifier [0x00007FF67BBA53B0+78688]
+	(No symbol) [0x00007FF67B9591AA]
+	(No symbol) [0x00007FF67B9B7089]
+	(No symbol) [0x00007FF67B9B4A42]
+	(No symbol) [0x00007FF67B9B1AE1]
+	(No symbol) [0x00007FF67B9B0A42]
+	(No symbol) [0x00007FF67B9A2204]
+	(No symbol) [0x00007FF67B9D70EA]
+	(No symbol) [0x00007FF67B9A1AB6]
+	(No symbol) [0x00007FF67B9D7300]
+	(No symbol) [0x00007FF67B9FF2BB]
+	(No symbol) [0x00007FF67B9D6EC3]
+	(No symbol) [0x00007FF67B9A03F8]
+	(No symbol) [0x00007FF67B9A1163]
+	GetHandleVerifier [0x00007FF67BE4EF0D+2870973]
+	GetHandleVerifier [0x00007FF67BE496B8+2848360]
+	GetHandleVerifier [0x00007FF67BE66993+2967875]
+	GetHandleVerifier [0x00007FF67BBC019A+188746]
+	GetHandleVerifier [0x00007FF67BBC847F+222255]
+	GetHandleVerifier [0x00007FF67BBAD2D4+111236]
+	GetHandleVerifier [0x00007FF67BBAD482+111666]
+	GetHandleVerifier [0x00007FF67BB935A9+5465]
+	BaseThreadInitThunk [0x00007FFBB35A7374+20]
+	RtlUserThreadStart [0x00007FFBB543CC91+33]
+
+2025-04-18 04:37:03,699 - INFO - Failed to extract item: Message: element click intercepted: Element <a href="javascript:void(0);" class="openQuickView" data-pid="4171" title="DPFRKC">...</a> is not clickable at point (438, 1143). Other element would receive the click: <div class="mfp-container mfp-ajax-holder">...</div>
+  (Session info: chrome=135.0.7049.85)
+Stacktrace:
+	GetHandleVerifier [0x00007FF67BBA5355+78597]
+	GetHandleVerifier [0x00007FF67BBA53B0+78688]
+	(No symbol) [0x00007FF67B9591AA]
+	(No symbol) [0x00007FF67B9B7089]
+	(No symbol) [0x00007FF67B9B4A42]
+	(No symbol) [0x00007FF67B9B1AE1]
+	(No symbol) [0x00007FF67B9B0A42]
+	(No symbol) [0x00007FF67B9A2204]
+	(No symbol) [0x00007FF67B9D70EA]
+	(No symbol) [0x00007FF67B9A1AB6]
+	(No symbol) [0x00007FF67B9D7300]
+	(No symbol) [0x00007FF67B9FF2BB]
+	(No symbol) [0x00007FF67B9D6EC3]
+	(No symbol) [0x00007FF67B9A03F8]
+	(No symbol) [0x00007FF67B9A1163]
+	GetHandleVerifier [0x00007FF67BE4EF0D+2870973]
+	GetHandleVerifier [0x00007FF67BE496B8+2848360]
+	GetHandleVerifier [0x00007FF67BE66993+2967875]
+	GetHandleVerifier [0x00007FF67BBC019A+188746]
+	GetHandleVerifier [0x00007FF67BBC847F+222255]
+	GetHandleVerifier [0x00007FF67BBAD2D4+111236]
+	GetHandleVerifier [0x00007FF67BBAD482+111666]
+	GetHandleVerifier [0x00007FF67BB935A9+5465]
+	BaseThreadInitThunk [0x00007FFBB35A7374+20]
+	RtlUserThreadStart [0x00007FFBB543CC91+33]
+
+2025-04-18 04:37:04,785 - INFO - Failed to extract item: Message: element click intercepted: Element <a href="javascript:void(0);" class="openQuickView" data-pid="4251" title="DPFRPB">...</a> is not clickable at point (652, 1143). Other element would receive the click: <div class="mfp-container mfp-ajax-holder">...</div>
+  (Session info: chrome=135.0.7049.85)
+Stacktrace:
+	GetHandleVerifier [0x00007FF67BBA5355+78597]
+	GetHandleVerifier [0x00007FF67BBA53B0+78688]
+	(No symbol) [0x00007FF67B9591AA]
+	(No symbol) [0x00007FF67B9B7089]
+	(No symbol) [0x00007FF67B9B4A42]
+	(No symbol) [0x00007FF67B9B1AE1]
+	(No symbol) [0x00007FF67B9B0A42]
+	(No symbol) [0x00007FF67B9A2204]
+	(No symbol) [0x00007FF67B9D70EA]
+	(No symbol) [0x00007FF67B9A1AB6]
+	(No symbol) [0x00007FF67B9D7300]
+	(No symbol) [0x00007FF67B9FF2BB]
+	(No symbol) [0x00007FF67B9D6EC3]
+	(No symbol) [0x00007FF67B9A03F8]
+	(No symbol) [0x00007FF67B9A1163]
+	GetHandleVerifier [0x00007FF67BE4EF0D+2870973]
+	GetHandleVerifier [0x00007FF67BE496B8+2848360]
+	GetHandleVerifier [0x00007FF67BE66993+2967875]
+	GetHandleVerifier [0x00007FF67BBC019A+188746]
+	GetHandleVerifier [0x00007FF67BBC847F+222255]
+	GetHandleVerifier [0x00007FF67BBAD2D4+111236]
+	GetHandleVerifier [0x00007FF67BBAD482+111666]
+	GetHandleVerifier [0x00007FF67BB935A9+5465]
+	BaseThreadInitThunk [0x00007FFBB35A7374+20]
+	RtlUserThreadStart [0x00007FFBB543CC91+33]
+
+2025-04-18 04:37:05,849 - INFO - Failed to extract item: Message: element click intercepted: Element <a href="javascript:void(0);" class="openQuickView" data-pid="4261" title="DPFRVJ">...</a> is not clickable at point (866, 1143). Other element would receive the click: <div class="mfp-container mfp-ajax-holder">...</div>
+  (Session info: chrome=135.0.7049.85)
+Stacktrace:
+	GetHandleVerifier [0x00007FF67BBA5355+78597]
+	GetHandleVerifier [0x00007FF67BBA53B0+78688]
+	(No symbol) [0x00007FF67B9591AA]
+	(No symbol) [0x00007FF67B9B7089]
+	(No symbol) [0x00007FF67B9B4A42]
+	(No symbol) [0x00007FF67B9B1AE1]
+	(No symbol) [0x00007FF67B9B0A42]
+	(No symbol) [0x00007FF67B9A2204]
+	(No symbol) [0x00007FF67B9D70EA]
+	(No symbol) [0x00007FF67B9A1AB6]
+	(No symbol) [0x00007FF67B9D7300]
+	(No symbol) [0x00007FF67B9FF2BB]
+	(No symbol) [0x00007FF67B9D6EC3]
+	(No symbol) [0x00007FF67B9A03F8]
+	(No symbol) [0x00007FF67B9A1163]
+	GetHandleVerifier [0x00007FF67BE4EF0D+2870973]
+	GetHandleVerifier [0x00007FF67BE496B8+2848360]
+	GetHandleVerifier [0x00007FF67BE66993+2967875]
+	GetHandleVerifier [0x00007FF67BBC019A+188746]
+	GetHandleVerifier [0x00007FF67BBC847F+222255]
+	GetHandleVerifier [0x00007FF67BBAD2D4+111236]
+	GetHandleVerifier [0x00007FF67BBAD482+111666]
+	GetHandleVerifier [0x00007FF67BB935A9+5465]
+	BaseThreadInitThunk [0x00007FFBB35A7374+20]
+	RtlUserThreadStart [0x00007FFBB543CC91+33]
+
+2025-04-18 04:37:06,888 - INFO - Failed to extract item: Message: element click intercepted: Element <a href="javascript:void(0);" class="openQuickView" data-pid="1449" title="DPFETC">...</a> is not clickable at point (1080, 1143). Other element would receive the click: <div class="mfp-container mfp-ajax-holder">...</div>
+  (Session info: chrome=135.0.7049.85)
+Stacktrace:
+	GetHandleVerifier [0x00007FF67BBA5355+78597]
+	GetHandleVerifier [0x00007FF67BBA53B0+78688]
+	(No symbol) [0x00007FF67B9591AA]
+	(No symbol) [0x00007FF67B9B7089]
+	(No symbol) [0x00007FF67B9B4A42]
+	(No symbol) [0x00007FF67B9B1AE1]
+	(No symbol) [0x00007FF67B9B0A42]
+	(No symbol) [0x00007FF67B9A2204]
+	(No symbol) [0x00007FF67B9D70EA]
+	(No symbol) [0x00007FF67B9A1AB6]
+	(No symbol) [0x00007FF67B9D7300]
+	(No symbol) [0x00007FF67B9FF2BB]
+	(No symbol) [0x00007FF67B9D6EC3]
+	(No symbol) [0x00007FF67B9A03F8]
+	(No symbol) [0x00007FF67B9A1163]
+	GetHandleVerifier [0x00007FF67BE4EF0D+2870973]
+	GetHandleVerifier [0x00007FF67BE496B8+2848360]
+	GetHandleVerifier [0x00007FF67BE66993+2967875]
+	GetHandleVerifier [0x00007FF67BBC019A+188746]
+	GetHandleVerifier [0x00007FF67BBC847F+222255]
+	GetHandleVerifier [0x00007FF67BBAD2D4+111236]
+	GetHandleVerifier [0x00007FF67BBAD482+111666]
+	GetHandleVerifier [0x00007FF67BB935A9+5465]
+	BaseThreadInitThunk [0x00007FFBB35A7374+20]
+	RtlUserThreadStart [0x00007FFBB543CC91+33]
+
+2025-04-18 04:37:07,948 - INFO - Failed to extract item: Message: element click intercepted: Element <a href="javascript:void(0);" class="openQuickView" data-pid="4260" title="DPFRSS">...</a> is not clickable at point (438, 1143). Other element would receive the click: <div class="mfp-container mfp-ajax-holder">...</div>
+  (Session info: chrome=135.0.7049.85)
+Stacktrace:
+	GetHandleVerifier [0x00007FF67BBA5355+78597]
+	GetHandleVerifier [0x00007FF67BBA53B0+78688]
+	(No symbol) [0x00007FF67B9591AA]
+	(No symbol) [0x00007FF67B9B7089]
+	(No symbol) [0x00007FF67B9B4A42]
+	(No symbol) [0x00007FF67B9B1AE1]
+	(No symbol) [0x00007FF67B9B0A42]
+	(No symbol) [0x00007FF67B9A2204]
+	(No symbol) [0x00007FF67B9D70EA]
+	(No symbol) [0x00007FF67B9A1AB6]
+	(No symbol) [0x00007FF67B9D7300]
+	(No symbol) [0x00007FF67B9FF2BB]
+	(No symbol) [0x00007FF67B9D6EC3]
+	(No symbol) [0x00007FF67B9A03F8]
+	(No symbol) [0x00007FF67B9A1163]
+	GetHandleVerifier [0x00007FF67BE4EF0D+2870973]
+	GetHandleVerifier [0x00007FF67BE496B8+2848360]
+	GetHandleVerifier [0x00007FF67BE66993+2967875]
+	GetHandleVerifier [0x00007FF67BBC019A+188746]
+	GetHandleVerifier [0x00007FF67BBC847F+222255]
+	GetHandleVerifier [0x00007FF67BBAD2D4+111236]
+	GetHandleVerifier [0x00007FF67BBAD482+111666]
+	GetHandleVerifier [0x00007FF67BB935A9+5465]
+	BaseThreadInitThunk [0x00007FFBB35A7374+20]
+	RtlUserThreadStart [0x00007FFBB543CC91+33]
+
+2025-04-18 04:37:08,997 - INFO - Failed to extract item: Message: element click intercepted: Element <a href="javascript:void(0);" class="openQuickView" data-pid="5964" title="DPFDVP">...</a> is not clickable at point (652, 1143). Other element would receive the click: <div class="mfp-container mfp-ajax-holder">...</div>
+  (Session info: chrome=135.0.7049.85)
+Stacktrace:
+	GetHandleVerifier [0x00007FF67BBA5355+78597]
+	GetHandleVerifier [0x00007FF67BBA53B0+78688]
+	(No symbol) [0x00007FF67B9591AA]
+	(No symbol) [0x00007FF67B9B7089]
+	(No symbol) [0x00007FF67B9B4A42]
+	(No symbol) [0x00007FF67B9B1AE1]
+	(No symbol) [0x00007FF67B9B0A42]
+	(No symbol) [0x00007FF67B9A2204]
+	(No symbol) [0x00007FF67B9D70EA]
+	(No symbol) [0x00007FF67B9A1AB6]
+	(No symbol) [0x00007FF67B9D7300]
+	(No symbol) [0x00007FF67B9FF2BB]
+	(No symbol) [0x00007FF67B9D6EC3]
+	(No symbol) [0x00007FF67B9A03F8]
+	(No symbol) [0x00007FF67B9A1163]
+	GetHandleVerifier [0x00007FF67BE4EF0D+2870973]
+	GetHandleVerifier [0x00007FF67BE496B8+2848360]
+	GetHandleVerifier [0x00007FF67BE66993+2967875]
+	GetHandleVerifier [0x00007FF67BBC019A+188746]
+	GetHandleVerifier [0x00007FF67BBC847F+222255]
+	GetHandleVerifier [0x00007FF67BBAD2D4+111236]
+	GetHandleVerifier [0x00007FF67BBAD482+111666]
+	GetHandleVerifier [0x00007FF67BB935A9+5465]
+	BaseThreadInitThunk [0x00007FFBB35A7374+20]
+	RtlUserThreadStart [0x00007FFBB543CC91+33]
+
+2025-04-18 04:37:10,019 - INFO - Failed to extract item: Message: element click intercepted: Element <a href="javascript:void(0);" class="openQuickView" data-pid="4161" title="DPFRDR">...</a> is not clickable at point (866, 1143). Other element would receive the click: <div class="mfp-container mfp-ajax-holder">...</div>
+  (Session info: chrome=135.0.7049.85)
+Stacktrace:
+	GetHandleVerifier [0x00007FF67BBA5355+78597]
+	GetHandleVerifier [0x00007FF67BBA53B0+78688]
+	(No symbol) [0x00007FF67B9591AA]
+	(No symbol) [0x00007FF67B9B7089]
+	(No symbol) [0x00007FF67B9B4A42]
+	(No symbol) [0x00007FF67B9B1AE1]
+	(No symbol) [0x00007FF67B9B0A42]
+	(No symbol) [0x00007FF67B9A2204]
+	(No symbol) [0x00007FF67B9D70EA]
+	(No symbol) [0x00007FF67B9A1AB6]
+	(No symbol) [0x00007FF67B9D7300]
+	(No symbol) [0x00007FF67B9FF2BB]
+	(No symbol) [0x00007FF67B9D6EC3]
+	(No symbol) [0x00007FF67B9A03F8]
+	(No symbol) [0x00007FF67B9A1163]
+	GetHandleVerifier [0x00007FF67BE4EF0D+2870973]
+	GetHandleVerifier [0x00007FF67BE496B8+2848360]
+	GetHandleVerifier [0x00007FF67BE66993+2967875]
+	GetHandleVerifier [0x00007FF67BBC019A+188746]
+	GetHandleVerifier [0x00007FF67BBC847F+222255]
+	GetHandleVerifier [0x00007FF67BBAD2D4+111236]
+	GetHandleVerifier [0x00007FF67BBAD482+111666]
+	GetHandleVerifier [0x00007FF67BB935A9+5465]
+	BaseThreadInitThunk [0x00007FFBB35A7374+20]
+	RtlUserThreadStart [0x00007FFBB543CC91+33]
+
+2025-04-18 04:37:11,054 - INFO - Failed to extract item: Message: element click intercepted: Element <a href="javascript:void(0);" class="openQuickView" data-pid="4159" title="DPFRCC">...</a> is not clickable at point (1080, 1143). Other element would receive the click: <div class="mfp-container mfp-ajax-holder">...</div>
+  (Session info: chrome=135.0.7049.85)
+Stacktrace:
+	GetHandleVerifier [0x00007FF67BBA5355+78597]
+	GetHandleVerifier [0x00007FF67BBA53B0+78688]
+	(No symbol) [0x00007FF67B9591AA]
+	(No symbol) [0x00007FF67B9B7089]
+	(No symbol) [0x00007FF67B9B4A42]
+	(No symbol) [0x00007FF67B9B1AE1]
+	(No symbol) [0x00007FF67B9B0A42]
+	(No symbol) [0x00007FF67B9A2204]
+	(No symbol) [0x00007FF67B9D70EA]
+	(No symbol) [0x00007FF67B9A1AB6]
+	(No symbol) [0x00007FF67B9D7300]
+	(No symbol) [0x00007FF67B9FF2BB]
+	(No symbol) [0x00007FF67B9D6EC3]
+	(No symbol) [0x00007FF67B9A03F8]
+	(No symbol) [0x00007FF67B9A1163]
+	GetHandleVerifier [0x00007FF67BE4EF0D+2870973]
+	GetHandleVerifier [0x00007FF67BE496B8+2848360]
+	GetHandleVerifier [0x00007FF67BE66993+2967875]
+	GetHandleVerifier [0x00007FF67BBC019A+188746]
+	GetHandleVerifier [0x00007FF67BBC847F+222255]
+	GetHandleVerifier [0x00007FF67BBAD2D4+111236]
+	GetHandleVerifier [0x00007FF67BBAD482+111666]
+	GetHandleVerifier [0x00007FF67BB935A9+5465]
+	BaseThreadInitThunk [0x00007FFBB35A7374+20]
+	RtlUserThreadStart [0x00007FFBB543CC91+33]
+
+2025-04-18 04:37:12,106 - INFO - Failed to extract item: Message: element click intercepted: Element <a href="javascript:void(0);" class="openQuickView" data-pid="1447" title="DPFEPM">...</a> is not clickable at point (438, 1143). Other element would receive the click: <div class="mfp-container mfp-ajax-holder">...</div>
+  (Session info: chrome=135.0.7049.85)
+Stacktrace:
+	GetHandleVerifier [0x00007FF67BBA5355+78597]
+	GetHandleVerifier [0x00007FF67BBA53B0+78688]
+	(No symbol) [0x00007FF67B9591AA]
+	(No symbol) [0x00007FF67B9B7089]
+	(No symbol) [0x00007FF67B9B4A42]
+	(No symbol) [0x00007FF67B9B1AE1]
+	(No symbol) [0x00007FF67B9B0A42]
+	(No symbol) [0x00007FF67B9A2204]
+	(No symbol) [0x00007FF67B9D70EA]
+	(No symbol) [0x00007FF67B9A1AB6]
+	(No symbol) [0x00007FF67B9D7300]
+	(No symbol) [0x00007FF67B9FF2BB]
+	(No symbol) [0x00007FF67B9D6EC3]
+	(No symbol) [0x00007FF67B9A03F8]
+	(No symbol) [0x00007FF67B9A1163]
+	GetHandleVerifier [0x00007FF67BE4EF0D+2870973]
+	GetHandleVerifier [0x00007FF67BE496B8+2848360]
+	GetHandleVerifier [0x00007FF67BE66993+2967875]
+	GetHandleVerifier [0x00007FF67BBC019A+188746]
+	GetHandleVerifier [0x00007FF67BBC847F+222255]
+	GetHandleVerifier [0x00007FF67BBAD2D4+111236]
+	GetHandleVerifier [0x00007FF67BBAD482+111666]
+	GetHandleVerifier [0x00007FF67BB935A9+5465]
+	BaseThreadInitThunk [0x00007FFBB35A7374+20]
+	RtlUserThreadStart [0x00007FFBB543CC91+33]
+
+2025-04-18 04:37:13,130 - INFO - Failed to extract item: Message: element click intercepted: Element <a href="javascript:void(0);" class="openQuickView" data-pid="1438" title="DPFECH">...</a> is not clickable at point (652, 1143). Other element would receive the click: <div class="mfp-container mfp-ajax-holder">...</div>
+  (Session info: chrome=135.0.7049.85)
+Stacktrace:
+	GetHandleVerifier [0x00007FF67BBA5355+78597]
+	GetHandleVerifier [0x00007FF67BBA53B0+78688]
+	(No symbol) [0x00007FF67B9591AA]
+	(No symbol) [0x00007FF67B9B7089]
+	(No symbol) [0x00007FF67B9B4A42]
+	(No symbol) [0x00007FF67B9B1AE1]
+	(No symbol) [0x00007FF67B9B0A42]
+	(No symbol) [0x00007FF67B9A2204]
+	(No symbol) [0x00007FF67B9D70EA]
+	(No symbol) [0x00007FF67B9A1AB6]
+	(No symbol) [0x00007FF67B9D7300]
+	(No symbol) [0x00007FF67B9FF2BB]
+	(No symbol) [0x00007FF67B9D6EC3]
+	(No symbol) [0x00007FF67B9A03F8]
+	(No symbol) [0x00007FF67B9A1163]
+	GetHandleVerifier [0x00007FF67BE4EF0D+2870973]
+	GetHandleVerifier [0x00007FF67BE496B8+2848360]
+	GetHandleVerifier [0x00007FF67BE66993+2967875]
+	GetHandleVerifier [0x00007FF67BBC019A+188746]
+	GetHandleVerifier [0x00007FF67BBC847F+222255]
+	GetHandleVerifier [0x00007FF67BBAD2D4+111236]
+	GetHandleVerifier [0x00007FF67BBAD482+111666]
+	GetHandleVerifier [0x00007FF67BB935A9+5465]
+	BaseThreadInitThunk [0x00007FFBB35A7374+20]
+	RtlUserThreadStart [0x00007FFBB543CC91+33]
+
+2025-04-18 04:37:14,153 - INFO - Failed to extract item: Message: element click intercepted: Element <a href="javascript:void(0);" class="openQuickView" data-pid="6196" title="DPFDPBQ">...</a> is not clickable at point (866, 1143). Other element would receive the click: <div class="mfp-container mfp-ajax-holder">...</div>
+  (Session info: chrome=135.0.7049.85)
+Stacktrace:
+	GetHandleVerifier [0x00007FF67BBA5355+78597]
+	GetHandleVerifier [0x00007FF67BBA53B0+78688]
+	(No symbol) [0x00007FF67B9591AA]
+	(No symbol) [0x00007FF67B9B7089]
+	(No symbol) [0x00007FF67B9B4A42]
+	(No symbol) [0x00007FF67B9B1AE1]
+	(No symbol) [0x00007FF67B9B0A42]
+	(No symbol) [0x00007FF67B9A2204]
+	(No symbol) [0x00007FF67B9D70EA]
+	(No symbol) [0x00007FF67B9A1AB6]
+	(No symbol) [0x00007FF67B9D7300]
+	(No symbol) [0x00007FF67B9FF2BB]
+	(No symbol) [0x00007FF67B9D6EC3]
+	(No symbol) [0x00007FF67B9A03F8]
+	(No symbol) [0x00007FF67B9A1163]
+	GetHandleVerifier [0x00007FF67BE4EF0D+2870973]
+	GetHandleVerifier [0x00007FF67BE496B8+2848360]
+	GetHandleVerifier [0x00007FF67BE66993+2967875]
+	GetHandleVerifier [0x00007FF67BBC019A+188746]
+	GetHandleVerifier [0x00007FF67BBC847F+222255]
+	GetHandleVerifier [0x00007FF67BBAD2D4+111236]
+	GetHandleVerifier [0x00007FF67BBAD482+111666]
+	GetHandleVerifier [0x00007FF67BB935A9+5465]
+	BaseThreadInitThunk [0x00007FFBB35A7374+20]
+	RtlUserThreadStart [0x00007FFBB543CC91+33]
+
+2025-04-18 04:37:15,216 - INFO - Failed to extract item: Message: element click intercepted: Element <a href="javascript:void(0);" class="openQuickView" data-pid="5933" title="DPFBHT">...</a> is not clickable at point (1080, 1143). Other element would receive the click: <div class="mfp-container mfp-ajax-holder">...</div>
+  (Session info: chrome=135.0.7049.85)
+Stacktrace:
+	GetHandleVerifier [0x00007FF67BBA5355+78597]
+	GetHandleVerifier [0x00007FF67BBA53B0+78688]
+	(No symbol) [0x00007FF67B9591AA]
+	(No symbol) [0x00007FF67B9B7089]
+	(No symbol) [0x00007FF67B9B4A42]
+	(No symbol) [0x00007FF67B9B1AE1]
+	(No symbol) [0x00007FF67B9B0A42]
+	(No symbol) [0x00007FF67B9A2204]
+	(No symbol) [0x00007FF67B9D70EA]
+	(No symbol) [0x00007FF67B9A1AB6]
+	(No symbol) [0x00007FF67B9D7300]
+	(No symbol) [0x00007FF67B9FF2BB]
+	(No symbol) [0x00007FF67B9D6EC3]
+	(No symbol) [0x00007FF67B9A03F8]
+	(No symbol) [0x00007FF67B9A1163]
+	GetHandleVerifier [0x00007FF67BE4EF0D+2870973]
+	GetHandleVerifier [0x00007FF67BE496B8+2848360]
+	GetHandleVerifier [0x00007FF67BE66993+2967875]
+	GetHandleVerifier [0x00007FF67BBC019A+188746]
+	GetHandleVerifier [0x00007FF67BBC847F+222255]
+	GetHandleVerifier [0x00007FF67BBAD2D4+111236]
+	GetHandleVerifier [0x00007FF67BBAD482+111666]
+	GetHandleVerifier [0x00007FF67BB935A9+5465]
+	BaseThreadInitThunk [0x00007FFBB35A7374+20]
+	RtlUserThreadStart [0x00007FFBB543CC91+33]
+
+2025-04-18 04:37:16,259 - INFO - No Next button found — end of pagination for Vegeterian Entrees
+2025-04-18 04:37:16,259 - INFO - Processing sub category: Naan/Kulcha/Roti (Breads
+2025-04-18 04:37:19,888 - INFO - Scraping page in subcategory: Naan/Kulcha/Roti (Breads
+2025-04-18 04:37:19,893 - INFO - Found 19 items in subcategory: Naan/Kulcha/Roti (Breads
+2025-04-18 04:37:44,212 - INFO - No Next button found — end of pagination for Naan/Kulcha/Roti (Breads
+2025-04-18 04:37:44,214 - INFO - Processing sub category: Family pack Breads
+2025-04-18 04:37:49,682 - INFO - Scraping page in subcategory: Family Pack Breads
+2025-04-18 04:37:49,689 - INFO - Found 14 items in subcategory: Family pack Breads
+2025-04-18 04:38:10,079 - INFO - No Next button found — end of pagination for Family Pack Breads
+2025-04-18 04:38:10,079 - INFO - Processing sub category: Parathas (Breads)
+2025-04-18 04:38:13,603 - INFO - Scraping page in subcategory: Parathas (Breads)
+2025-04-18 04:38:13,608 - INFO - Found 14 items in subcategory: Parathas (Breads)
+2025-04-18 04:38:34,183 - INFO - No Next button found — end of pagination for Parathas (Breads)
+2025-04-18 04:38:34,183 - INFO - Processing sub category: Vegetables/Fruits
+2025-04-18 04:38:37,605 - INFO - Scraping page in subcategory: Vegetables/Fruits
+2025-04-18 04:38:37,610 - INFO - Found 36 items in subcategory: Vegetables/Fruits

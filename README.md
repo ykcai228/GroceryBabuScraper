@@ -55,10 +55,10 @@ This project is a Python-based web scraper that extracts all product SKUs and ti
 
 - [x] Format SKU output with associated subcategory names  
 - [x] Write results to a CSV file  
-- [ ] Handle pagination (i.e., select "36" per page and loop through all pages)  
+- [x] Handle pagination (i.e., select "36" per page and loop through all pages)  
 - [ ] Add retry/backoff logic for timeouts or failures  
 - [ ] Add option for running the browser headlessly  
-- [ ] Improve logging and error reporting  
+- [x] Improve logging and error reporting  
 
 ---
 
